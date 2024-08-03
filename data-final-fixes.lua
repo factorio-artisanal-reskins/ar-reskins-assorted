@@ -1,0 +1,4 @@
+-- Copyright (c) 2024 Kirazy
+-- Part of Artisanal Reskins: Assorted Mods
+--
+-- See LICENSE in the project directory for license information.
